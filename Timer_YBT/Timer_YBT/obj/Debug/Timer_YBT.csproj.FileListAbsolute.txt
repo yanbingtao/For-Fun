@@ -1,0 +1,9 @@
+c:\users\yan\documents\visual studio 2015\Projects\Timer_YBT\Timer_YBT\bin\Debug\Timer_YBT.exe.config
+C:\Users\YAN\documents\visual studio 2015\Projects\Timer_YBT\Timer_YBT\bin\Debug\Timer_YBT.exe
+C:\Users\YAN\documents\visual studio 2015\Projects\Timer_YBT\Timer_YBT\bin\Debug\Timer_YBT.pdb
+C:\Users\YAN\documents\visual studio 2015\Projects\Timer_YBT\Timer_YBT\obj\Debug\Timer_YBT.csprojResolveAssemblyReference.cache
+C:\Users\YAN\documents\visual studio 2015\Projects\Timer_YBT\Timer_YBT\obj\Debug\Timer_YBT.Form1.resources
+C:\Users\YAN\documents\visual studio 2015\Projects\Timer_YBT\Timer_YBT\obj\Debug\Timer_YBT.Properties.Resources.resources
+C:\Users\YAN\documents\visual studio 2015\Projects\Timer_YBT\Timer_YBT\obj\Debug\Timer_YBT.csproj.GenerateResource.Cache
+C:\Users\YAN\documents\visual studio 2015\Projects\Timer_YBT\Timer_YBT\obj\Debug\Timer_YBT.exe
+C:\Users\YAN\documents\visual studio 2015\Projects\Timer_YBT\Timer_YBT\obj\Debug\Timer_YBT.pdb
